@@ -19,13 +19,13 @@ I tried to make this language as natural as possible. Hence the name **'Natural'
     Syntax: 
     expression
     start
-	statement
+		statement
     end
 		
     Ex: 
     for assign i = 0 to 10
     start
-	display 15
+		display 15
     end
 
 ## If Statement
@@ -39,7 +39,7 @@ I tried to make this language as natural as possible. Hence the name **'Natural'
     Ex: 
     check if 1 equals 2
     start
-	assign i = 5
+		assign i = 5
     end
 ## If - Else Statements
 
@@ -51,7 +51,7 @@ I tried to make this language as natural as possible. Hence the name **'Natural'
 			
     else
     start
-	statement
+		statement
     end
 		
     Ex:
@@ -74,29 +74,29 @@ I tried to make this language as natural as possible. Hence the name **'Natural'
 
     or if expression
     start
-	statement
+		statement
     end
     ....   ** As many or if's required
 			
     else
     start
-	statement
+		statement
     end
 		
     Ex:
     check if 1 equals 2
     start
-	assign i = 5
+		assign i = 5
     end
 
     or if 1 equals 1
     start
-	assign i = 100
+		assign i = 100
     end
 
     else
     start
-	assign i = 87
+		assign i = 87
     end
 
 ## Equals
@@ -131,7 +131,7 @@ I tried to make this language as natural as possible. Hence the name **'Natural'
     Ex:
     function x takes ()
     start
-	assign j = 0
+		assign j = 0
     end
 ## Calling a function
 
