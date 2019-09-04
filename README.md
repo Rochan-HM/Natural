@@ -152,7 +152,7 @@ In future versions, I plan on using sys.argv to take input via the command shell
 
     >>> ** Program to print a number 10 times
     >>> for assign i = 0 to 11 start display n end
-    q
+    
     >>> **Program using functions
     >>> function hello takes() start assign z = 56 end
     >>> hello()
